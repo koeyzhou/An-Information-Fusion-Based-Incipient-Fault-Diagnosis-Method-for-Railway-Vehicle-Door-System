@@ -1,5 +1,6 @@
 # The Initial Results of BPAs for Fault Types
-1)Initial BPAs of Normal Type<br>
+
+## ***1)Initial BPAs of Normal Type<br>***
 **The BPAs of motor data**
 
 | Test Set |   F1   |       F2      |     F3      |       F4      |   F5   |      F6      |       F7      | Result |
@@ -21,3 +22,6 @@
 |    4     | 0.31487|    0.14142    |   0.11487   |    0.06455    | 0.09208|   0.11416    |   0.15805    |   F1   |
 |    5     | 0.41882|    0.05119    |   0.04467   |    0.02279    | 0.12237|   0.23798    |   0.10219    |   F1   |
 | Average  | 0.38853|    0.06676    |   0.07355   |    0.04269    | 0.14191|   0.16838    |   0.11817    |   F1   |
+
+## ***2)Type 2 (Rolling pin wear(9mm))<br>***
+**The BPAs of motor data**
