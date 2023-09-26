@@ -1,1 +1,1 @@
-# An-Information-Fusion-Based-Incipient-Fault-Diagnosis-Method-for-Railway-Vehicle-Door-System
+# The Initial Results of BPAs for Fault Types
